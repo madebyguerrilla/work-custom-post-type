@@ -1,0 +1,18 @@
+/*
+	These are the custom css styles for the Guerrilla's Work CPT plugin.
+	If you'd like to customize these css codes, I would recommend copying
+	the codes below into your theme's stylesheet and editing the codes
+	as you see fit. Need help? email: hi@madebyguerrilla.com
+*/
+
+.attachment-guerrillawork-widget-image {
+	float: none;
+	margin: 0;
+}
+
+div.guerrillawork a { border: 0; }
+
+div.guerrillawork p.guerrillatitle a,
+div.guerrillawork p.guerrillatitle a:visited {
+	border-bottom: 1px solid #d0d0d0;
+}
